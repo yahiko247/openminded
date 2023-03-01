@@ -7,7 +7,7 @@
 /* main-container-sitting*/
 
 .main-container{
-    background-color: black;
+    background-color: rgb(56, 169, 235), 0, 0);
 }
 .main-container > div {
      padding: 10px 10px;
